@@ -16,5 +16,5 @@ end
 
 
 oxford_comma(["kiwi")
-oxford_comma(["kiwi", "durian", "starfruit", "mangos", "dragon fruits"])
-oxford_comma(["kiwi", "durian", "starfruit", "mangos", "dragon fruits"])
+oxford_comma(["kiwi", "durian")]
+oxford_comma(["kiwi", "durian", "starfruit")]
