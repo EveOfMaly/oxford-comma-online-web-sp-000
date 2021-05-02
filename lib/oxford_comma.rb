@@ -13,3 +13,6 @@ def oxford_comma(array)
      binding.pry
   end
 end
+
+
+oxford_comma(["kiwi", "durian", "starfruit", "mangos", "dragon fruits"])
