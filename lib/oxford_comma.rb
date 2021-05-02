@@ -18,5 +18,5 @@ end
 p oxford_comma(["kiwi"])
 p oxford_comma(["kiwi", "durian"])
 p oxford_comma(["kiwi", "durian", "starfruit", "mangos", "dragon fruits"])
-p oxford_comma(["kiwi", "durian", "starfruit", "mangos", "dragon fruits", "lychees", "pomelos"]))
+p oxford_comma(["kiwi", "durian", "starfruit", "mangos", "dragon fruits", "lychees", "pomelos"])
 
