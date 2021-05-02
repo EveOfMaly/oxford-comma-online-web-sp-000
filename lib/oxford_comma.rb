@@ -14,6 +14,6 @@ def oxford_comma(array)
 end
 
 
-put oxford_comma(["kiwi"])
-put oxford_comma(["kiwi", "durian"])
-put oxford_comma(["kiwi", "durian", "starfruit"])
+puts oxford_comma(["kiwi"])
+puts oxford_comma(["kiwi", "durian"])
+puts oxford_comma(["kiwi", "durian", "starfruit"])
