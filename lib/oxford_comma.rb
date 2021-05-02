@@ -10,13 +10,8 @@ def oxford_comma(array)
      last_element = array.pop
      new_last_elment = "and #{last_element}" 
      array << new_last_elment
-     array.join(" ,")
+     array.join(", ")
   end
 end
 
-
-p oxford_comma(["kiwi"])
-p oxford_comma(["kiwi", "durian"])
-p oxford_comma(["kiwi", "durian", "starfruit", "mangos", "dragon fruits"])
-p oxford_comma(["kiwi", "durian", "starfruit", "mangos", "dragon fruits", "lychees", "pomelos"])
 
